@@ -3,4 +3,7 @@ fun sayHello(greeting: String, itemToGreet: String) = println("$greeting $itemTo
 fun main() {
     val interestingThings = arrayOf("kotlin", "dat", "thanh")
     interestingThings.dwada
-    dwuaiduwadihwa
+   sadasdasd
+   thanh dat
+   asdasd
+   
