@@ -4,6 +4,7 @@ interface PersoninfoProvider{
         println(providerInfo)
         person.printInfo()
     }
+    
 }
 interface SessionInfoProvider{
     fun getSessionId() :String
